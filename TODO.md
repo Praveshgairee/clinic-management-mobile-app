@@ -1,4 +1,4 @@
-# Cinic Management Mobile App 
+# Clinic Management Mobile App 
 
 ## Patient Module Pages
 
